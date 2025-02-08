@@ -4,6 +4,8 @@ Merhaba,
 
 Bu proje, daha önce ücretsiz olarak paylaştığım ve web hosting satışlarınızı desteklemek için tasarlanmış bir HTML temadır. Ürünlerinizi ve hizmetlerinizi tanıtmak, müşterilerinize profesyonel bir görünüm sunmak için ideal bir başlangıç noktasıdır.
 
+**Daha fazlasını görmek için internet sitemi ( https://marthex.dev/ ) ziyaret etmeyi unutma.**
+
 ---
 
 ## Özellikler
@@ -25,4 +27,4 @@ Bu proje, daha önce ücretsiz olarak paylaştığım ve web hosting satışlar�
   ```bash
   git clone https://github.com/kullaniciadi/proje-adi.git
 ## Görüntü 
-![Alternatif Metin](dark-hosting-theme.png "Fotoğraf Başlığı")
+![Alternatif Metin](dark-hosting-theme.png "marthex.dev")
